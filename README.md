@@ -1,8 +1,8 @@
 
 # Gra pamięciowa Simon
-Gra Simon to klasyczna gra zręcznościowa, która polega na pamiętaniu i odtwarzaniu sekwencji dźwięków lub kolorów. Gra składa się z czterech kolorowych przycisków (czerwonego, niebieskiego, zielonego i żółtego).
+Gra Simon to klasyczna gra zręcznościowa, która polega na zapamiętywaniu i odtwarzaniu sekwencji dźwięków lub kolorów. Gra składa się z czterech kolorowych przycisków (czerwonego, niebieskiego, zielonego i żółtego).
 
-Zasady są proste: generowana jest losowa sekwencję prezentowana przez dzwięki i migające przyciski, które gracz musi zapamiętać i powtórzyć. Za każdym razem, gdy gracz poprawnie powtórzy sekwencję, gra dodaje kolejny krok do sekwencji. Gra kończy się, gdy gracz popełni błąd w powtarzaniu sekwencji.
+Zasady są proste: generowana jest losowa sekwencja prezentowana przez dzwięki i migające przyciski, które gracz musi zapamiętać i powtórzyć. Za każdym razem, gdy gracz poprawnie powtórzy sekwencję, gra dodaje kolejny krok do sekwencji. Gra kończy się, gdy gracz popełni błąd w powtarzaniu sekwencji.
 
 ## Dostęp
 
@@ -27,7 +27,12 @@ https://kapelew.github.io/simonGame/
 
 - **JavaSciprt** + jQuery
 
-## 
-Projekt utworzony w ramach nauki podczas kursu:
-- "The Complete 2024 Web Development Bootcamp"
 
+
+## 
+#### Projekt utworzony w ramach nauki podczas kursu:
+- "The Complete 2024 Web Development Bootcamp".<br>
+#### Sam projekt został przeze mnie stworzony bez wskazówek ukazanych w kursie jak i finalnie udoskonalony poprzez dodanie między innymi:
+- animacja ekranu po przejściu poziomu,
+- implementacja wyłączania przycisków podczas animacji w celu zapobiegnięciu oszustw,
+- implementacja wyświetlenia pełnej sekwencji kolorów/dzwięków.
